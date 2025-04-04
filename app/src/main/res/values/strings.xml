@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">yuvts</string>
+    <string name="main_screen">Main_screen</string>
+    <string name="edit_words_screen">Edit_words_screen</string>
+    <string name="settings_screen">settings_screen</string>
+</resources>
